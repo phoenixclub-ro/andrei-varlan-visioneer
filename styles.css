@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #1c1c1c;
+    color: #ffffff;
+  }
+  
+  header {
+    margin-top: 20px;
+  }
+  
+  #webcam-container {
+    margin: 20px auto;
+  }
+  
+  video {
+    width: 320px;
+    height: auto;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #ff4500;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ff6347;
+  }
+  
+  #result {
+    margin-top: 20px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .card img {
+    width: 200px;
+  }
+  
+  h2 {
+    margin-top: 10px;
+  }
